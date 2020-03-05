@@ -5,7 +5,7 @@ description: >-
   they provide? How do they differ from one another
 ---
 
-# Activity 1.1
+# 1.1 IT Businesses
 
 There are many different types of I.T businesses in the world some of which cover many aspects of IT.
 
