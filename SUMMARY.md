@@ -6,4 +6,7 @@
 * [1.4 IT Business Structure](activity-1.4.md)
 * [1.5 Impacts of IT on Business](untitledactivity.md)
 * [1.6 Knowledge Quiz \(Completed\)](1.6-knowledge-quiz-completed.md)
+* [2.1 The role of information management](2.1-the-role-of-information-management.md)
+* [2.2](2.2.md)
+* [2.3](2.3.md)
 
