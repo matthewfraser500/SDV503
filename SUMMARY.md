@@ -9,4 +9,7 @@
 * [2.1 The Role of Information Management](2.1-the-role-of-information-management.md)
 * [2.2 Information Management Stakeholders](2.2.md)
 * [2.3 Knowledge Quiz \(Completed\)](2.3.md)
+* [3.1 Why the need for development life cycles?](3.1-why-the-need-for-development-life-cycles.md)
+* [3.2 A range of other models](3.2-a-range-of-other-models.md)
+* [3.3 Quiz \(Completed\)](3.3-quiz-completed.md)
 
