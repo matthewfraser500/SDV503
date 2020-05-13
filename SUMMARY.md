@@ -14,4 +14,6 @@
 * [3.3 Quiz \(Completed\)](3.3-quiz-completed.md)
 * [4.1 Challenges of user experience design](4.1-challenges-of-user-experience-design.md)
 * [4.2 A closer look at usability](4.2-a-closer-look-at-usability.md)
+* [5.1 UI basic principles](5.1-ui-basic-principles.md)
+* [5.2 Considering different technologies](5.2-considering-different-technologies.md)
 
