@@ -16,4 +16,6 @@
 * [4.2 A closer look at usability](4.2-a-closer-look-at-usability.md)
 * [5.1 UI basic principles](5.1-ui-basic-principles.md)
 * [5.2 Considering different technologies](5.2-considering-different-technologies.md)
+* [6.1 What makes a good web experience?](6.1-what-makes-a-good-web-experience.md)
+* [6.2 Design that enhances content](6.2-design-that-enhances-content.md)
 
