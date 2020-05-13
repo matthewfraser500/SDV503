@@ -12,4 +12,6 @@
 * [3.1 Why the need for development life cycles?](3.1-why-the-need-for-development-life-cycles.md)
 * [3.2 A range of other models \(Agile\)](3.2-a-range-of-other-models.md)
 * [3.3 Quiz \(Completed\)](3.3-quiz-completed.md)
+* [4.1 Challenges of user experience design](4.1-challenges-of-user-experience-design.md)
+* [4.2 A closer look at usability](4.2-a-closer-look-at-usability.md)
 
